@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"D:/Documents/Cours/Linux/02-VM/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Documents/Cours/Linux/02-VM","disabled":false,"__vagrantfile":true}}}
